@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
+        /**Metehan Elmas **/
 
         int n1, n2, select;
         System.out.print("Birinci sayıyı giriniz : ");
